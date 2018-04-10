@@ -1,2 +1,3 @@
 # hello-world
 What is GitHub...
+Figuring out how this thing works!
